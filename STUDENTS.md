@@ -3,7 +3,7 @@
 | Full Name | GitHub nickname | notes |
 | --------- | --------------- | ----- |
 | Gianni Bombelli | bombo82 |  teacher |
-| Giada Altieri  | Giadaaltieri13 |
+| Giada Altieri  | Giadaaltieri13 | in team con Agnese Morici |
 | Federico Micca | FedericoMich |  andreatulliani |
 | Alessandro Sirianni | SkyPhoenix01 | notes |
 | Andrea Biondo | Andrea-crypto-svg | working with Lupo Luca |
@@ -21,6 +21,6 @@
 | Marco Alessandra | marcolssndr |   |
 | De Bartolo Andrea | Debag-software |  |
 | Francesca Consorti | francescaconsorti |  |
-| Agnese Morici | AgneseMorici | |
+| Agnese Morici | AgneseMorici | in team con Giada Altieri |
 | Adam El Baz | adam11jpg | in team con Andrea De Bartolo |
 | Luca Reverberi | lukeku62 | in gruppo con Francesca Consorti | 
